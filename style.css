@@ -1,0 +1,20 @@
+img{
+    height: auto;
+    width: 20%;
+    float: left;
+}
+body{
+    background-color: blueviolet;
+}
+h1{
+    color: brown;
+    display: block;
+   
+}
+h1:hover{
+    background-color: red;
+    border-radius: 11px;
+    width: 210px;
+    display: block;
+    margin-left: 10px
+}
